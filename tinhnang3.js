@@ -1,1 +1,1 @@
-console.log("tinh nang 3");
+console.log("tinh nang 3");// chuan bi realy cho Prod
